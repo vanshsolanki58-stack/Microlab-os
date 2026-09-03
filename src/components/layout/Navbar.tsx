@@ -40,7 +40,6 @@ export default function Navbar({
 
   const navItems = [
     { id: 'practicals', label: 'Practicals Repository', icon: FlaskConical },
-    { id: 'chemistry', label: 'Solution Chemistry', icon: FlaskRound, badge: 'NEW' },
     { id: 'vision', label: 'AI Colony Counter', icon: Sparkles, badge: 'AI' },
     { id: 'calculators', label: 'Bio Calculators', icon: Calculator },
     { id: 'equipment', label: 'Machinery SOPs', icon: FlaskConical },
